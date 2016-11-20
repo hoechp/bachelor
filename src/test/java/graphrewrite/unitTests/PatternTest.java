@@ -1,4 +1,4 @@
-package graphtransformations.unitTests;
+package graphrewrite.unitTests;
 
 import org.junit.Test;
 
