@@ -1,4 +1,4 @@
-Copyright (c) 2016, Philipp Kolodziej
+Copyright (c) 2016, Philipp Kolodziej  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
