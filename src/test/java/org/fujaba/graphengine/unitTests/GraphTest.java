@@ -1,12 +1,11 @@
-package graphrewrite.unitTests;
+package org.fujaba.graphengine.unitTests;
 
 import org.junit.Test;
 
-import graphrewrite.graph.Graph;
-import graphrewrite.graph.Node;
-
 import java.util.HashSet;
 
+import org.fujaba.graphengine.graph.Graph;
+import org.fujaba.graphengine.graph.Node;
 import org.junit.Assert;
 
 public class GraphTest {

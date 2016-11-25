@@ -1,4 +1,4 @@
-package graphrewrite.graph;
+package org.fujaba.graphengine.graph;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,11 +1,11 @@
-package graphrewrite.pattern;
+package org.fujaba.graphengine.pattern;
 
 /**
  * A pattern for a single edge, for matching against, creation or removal of an edge.
  * 
  * @author Philipp Kolodziej
  */
-public class PatternEdge extends graphrewrite.pattern.Pattern {
+public class PatternEdge extends org.fujaba.graphengine.pattern.Pattern {
 	
 	/**
 	 * the name of the edge

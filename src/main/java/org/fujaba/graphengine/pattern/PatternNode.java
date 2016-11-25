@@ -1,4 +1,4 @@
-package graphrewrite.pattern;
+package org.fujaba.graphengine.pattern;
 
 import java.util.HashSet;
 
@@ -7,7 +7,7 @@ import java.util.HashSet;
  * 
  * @author Philipp Kolodziej
  */
-public class PatternNode extends graphrewrite.pattern.Pattern {
+public class PatternNode extends org.fujaba.graphengine.pattern.Pattern {
 
 	/**
 	 * the id of this PatternNode

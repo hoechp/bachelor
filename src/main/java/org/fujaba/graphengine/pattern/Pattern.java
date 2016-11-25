@@ -1,4 +1,4 @@
-package graphrewrite.pattern;
+package org.fujaba.graphengine.pattern;
 
 /**
  * This class is superclass to all Pattern subclasses, like PatternNode, PatternEdge, PatternAttribute.

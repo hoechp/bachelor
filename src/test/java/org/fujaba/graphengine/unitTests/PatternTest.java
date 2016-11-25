@@ -1,12 +1,10 @@
-package graphrewrite.unitTests;
+package org.fujaba.graphengine.unitTests;
 
 import org.junit.Test;
-
-import graphrewrite.pattern.PatternEdge;
-import graphrewrite.pattern.PatternGraph;
-import graphrewrite.pattern.PatternNode;
-import graphrewrite.pattern.PatternRules;
-
+import org.fujaba.graphengine.pattern.PatternEdge;
+import org.fujaba.graphengine.pattern.PatternGraph;
+import org.fujaba.graphengine.pattern.PatternNode;
+import org.fujaba.graphengine.pattern.PatternRules;
 import org.junit.Assert;
 
 public class PatternTest {

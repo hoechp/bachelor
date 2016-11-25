@@ -1,11 +1,11 @@
-package graphrewrite.pattern;
+package org.fujaba.graphengine.pattern;
 
 /**
  * A Pattern for a single attribute, for matching (also negatively) against, creation of or removal of an attribute.
  * 
  * @author Philipp Kolodziej
  */
-public class PatternAttribute extends graphrewrite.pattern.Pattern {
+public class PatternAttribute extends org.fujaba.graphengine.pattern.Pattern {
 	
 	/**
 	 * the PatternNode of this PatternAttribute

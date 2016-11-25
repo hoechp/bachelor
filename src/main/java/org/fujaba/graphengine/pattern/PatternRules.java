@@ -1,4 +1,4 @@
-package graphrewrite.pattern;
+package org.fujaba.graphengine.pattern;
 
 import java.util.HashMap;
 import java.util.HashSet;
